@@ -1,5 +1,5 @@
-# Museum of Candy
+# :lollipop:	Museum of Candy :lollipop:	
 
-Landing page using bootstrap
+Fully responsive landing page using bootstrap
 
 [Live demo](https://migfernandes01.github.io/museum-of-candy/)
